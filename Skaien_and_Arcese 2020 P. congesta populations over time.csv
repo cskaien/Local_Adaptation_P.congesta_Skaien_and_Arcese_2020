@@ -1,0 +1,33 @@
+Location,Herbivory,Phenotype,Loc_Herb,Legend,Code,Code 2,Year,Number
+Inside,Yes,Wingless,Inside_Yes_Wingless,Inside Deer Wingless,1,1,2014,52
+Inside,No,Wingless,Inside_No_Wingless,Inside No Deer Wingless,2,2,2014,36
+Outside,Yes,Wingless,Outside_Yes_Wingless,Outside Deer Wingless,3,3,2014,27
+Outside,No,Wingless,Outside_No_Wingless,Outside No Deer Wingless,4,4,2014,5
+Inside,Yes,Winged,Inside_Yes_Winged,Inside Deer Winged,1,5,2014,36
+Inside,No,Winged,Inside_No_Winged,Inside No Deer Winged,2,6,2014,48
+Outside,Yes,Winged,Outside_Yes_Winged,Outside Deer Winged,3,7,2014,22
+Outside,No,Winged,Outside_No_Winged,Outside No Deer Winged,4,8,2014,11
+Inside,Yes,Wingless,Inside_Yes_Wingless,Inside Deer Wingless,1,1,2015,268
+Inside,No,Wingless,Inside_No_Wingless,Inside No Deer Wingless,2,2,2015,73
+Outside,Yes,Wingless,Outside_Yes_Wingless,Outside Deer Wingless,3,3,2015,5
+Outside,No,Wingless,Outside_No_Wingless,Outside No Deer Wingless,4,4,2015,1
+Inside,Yes,Winged,Inside_Yes_Winged,Inside Deer Winged,1,5,2015,76
+Inside,No,Winged,Inside_No_Winged,Inside No Deer Winged,2,6,2015,280
+Outside,Yes,Winged,Outside_Yes_Winged,Outside Deer Winged,3,7,2015,0
+Outside,No,Winged,Outside_No_Winged,Outside No Deer Winged,4,8,2015,0
+Inside,Yes,Wingless,Inside_Yes_Wingless,Inside Deer Wingless,1,1,2016,60
+Inside,No,Wingless,Inside_No_Wingless,Inside No Deer Wingless,2,2,2016,41
+Outside,Yes,Wingless,Outside_Yes_Wingless,Outside Deer Wingless,3,3,2016,0
+Outside,No,Wingless,Outside_No_Wingless,Outside No Deer Wingless,4,4,2016,0
+Inside,Yes,Winged,Inside_Yes_Winged,Inside Deer Winged,1,5,2016,37
+Inside,No,Winged,Inside_No_Winged,Inside No Deer Winged,2,6,2016,174
+Outside,Yes,Winged,Outside_Yes_Winged,Outside Deer Winged,3,7,2016,0
+Outside,No,Winged,Outside_No_Winged,Outside No Deer Winged,4,8,2016,0
+Inside,Yes,Wingless,Inside_Yes_Wingless,Inside Deer Wingless,1,1,2018,365
+Inside,No,Wingless,Inside_No_Wingless,Inside No Deer Wingless,2,2,2018,499
+Outside,Yes,Wingless,Outside_Yes_Wingless,Outside Deer Wingless,3,3,2018,0
+Outside,No,Wingless,Outside_No_Wingless,Outside No Deer Wingless,4,4,2018,0
+Inside,Yes,Winged,Inside_Yes_Winged,Inside Deer Winged,1,5,2018,571
+Inside,No,Winged,Inside_No_Winged,Inside No Deer Winged,2,6,2018,1744
+Outside,Yes,Winged,Outside_Yes_Winged,Outside Deer Winged,3,7,2018,0
+Outside,No,Winged,Outside_No_Winged,Outside No Deer Winged,4,8,2018,0
